@@ -1,0 +1,11 @@
+.bgimage {
+	background-image: url("../images/cover-photo.jpg");
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+	margin-top: 50px;
+}
+
+header h1{
+	color: white;
+}
